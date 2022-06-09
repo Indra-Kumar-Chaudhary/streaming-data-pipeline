@@ -9,4 +9,6 @@ And then streaming that data from kafka to one or more target systems.
 Get the connectors
 <h1>
 <h3>Create a directory for your components:</h3>
-<p>mkdir confluent-hub-components</p>
+<pre>
+<p>mkdir confluent-hub-components
+</p></pre>
